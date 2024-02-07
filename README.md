@@ -54,7 +54,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ggasin&show_icons=true">
 </div>
 
-## 백준
+## 👨‍💻 백준
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tmdals028)](https://solved.ac/tmdals028/)
 
 
