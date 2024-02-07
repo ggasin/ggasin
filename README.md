@@ -54,6 +54,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ggasin&show_icons=true">
 </div>
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tmdals028)](https://solved.ac/tmdals028/)
+
+
 ## 💻 프로젝트
 
 #### 자세한 기능은 notion에서 확인 가능합니다!
