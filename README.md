@@ -1,12 +1,57 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=내용입력&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=SeungMinRyu&fontSize=50" />
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👨‍🎓 수원대학교 컴퓨터SW 전공 졸업(17.03 ~ 23.02)
+- 🌱 KH정보교육원 (디지털컨버전스)공공데이터 융합 웹 애플리케이션 개발자 양성과정 10 수료 (23.08 ~ 24.01)
+- 👯 정보처리기사 취득 (22.09)
+- 🤔 Notion : https://married-oxygen-2d1.notion.site/05cac601c95d42b88d62540ce592d23b
+## ✉️ 연락처
+- Email: tmdals028@naver.com
+## 🛠 기술 스택
 
+#### 😊 업무에 활용 가능해요
+<div>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
+	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
+	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
+	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
+	<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android Studio-3DDC84?&logo=androidstudio&style=flat&logoColor=white" />
+	<br>
+	<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
+	<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white" />
+	<img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=flat&logo=Oracle&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/Json-000000?style=flat&logo=JSON&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gson-F3702A?style=flat&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ajax-F9CB61?style=flat&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mybatis-FC494A?style=flat&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jsp-FC494A?style=flat&logoColor=white" />
+  <br>
+  
+</div>
+<br>
+
+#### 😊 배우거나 다뤄본 경험이 있어요
+<div>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white"/>
+  <br>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MariaDb-003545?style=flat&logo=mariadb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Sqlite-003B57?style=flat&logo=sqlite&logoColor=white"/>
+</div>
+<br>
+<div>
+  <h3>:hourglass_flowing_sand: Git play :hourglass_flowing_sand:</h3>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ggasin&layout=compact">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=ggasin&show_icons=true">
+</div>
+
+## 💻 프로젝트
